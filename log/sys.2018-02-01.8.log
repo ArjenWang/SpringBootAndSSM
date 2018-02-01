@@ -1,8 +1,0 @@
-2018-02-01 13:41:01,767 INFO (StartupInfoLogger.java:57)- Started SpringBootAndSsmApplication in 5.762 seconds (JVM running for 6.345)
-2018-02-01 13:52:47,163 INFO (StartupInfoLogger.java:48)- Starting SpringBootAndSsmApplication on CFETS-PC with PID 6960 (E:\springboot\SpringBootAndSSM\target\classes started by Administrator in E:\springboot\SpringBootAndSSM)
-2018-02-01 13:52:47,167 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
-2018-02-01 13:52:47,168 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
-2018-02-01 13:52:52,139 INFO (StartupInfoLogger.java:57)- Started SpringBootAndSsmApplication in 5.615 seconds (JVM running for 6.229)
-2018-02-01 13:53:02,415 DEBUG (BaseJdbcLogger.java:181)- ==>  Preparing: SELECT * FROM user WHERE name = ? 
-2018-02-01 13:53:02,440 DEBUG (BaseJdbcLogger.java:181)- ==> Parameters: arjen(String)
-2018-02-01 13:53:02,479 DEBUG (BaseJdbcLogger.java:181)- <==      Total: 1
