@@ -1,0 +1,10 @@
+2018-02-01 11:16:59,449 INFO (StartupInfoLogger.java:57)- Started SpringBootAndSsmApplication in 5.609 seconds (JVM running for 6.299)
+2018-02-01 11:22:47,853 INFO (StartupInfoLogger.java:48)- Starting SpringBootAndSsmApplication on CFETS-PC with PID 6676 (E:\springboot\SpringBootAndSSM\target\classes started by Administrator in E:\springboot\SpringBootAndSSM)
+2018-02-01 11:22:47,857 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-02-01 11:22:47,858 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-02-01 11:24:02,055 INFO (StartupInfoLogger.java:48)- Starting SpringBootAndSsmApplication on CFETS-PC with PID 1168 (E:\springboot\SpringBootAndSSM\target\classes started by Administrator in E:\springboot\SpringBootAndSSM)
+2018-02-01 11:24:02,060 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-02-01 11:24:02,060 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-02-01 11:25:40,705 INFO (StartupInfoLogger.java:48)- Starting SpringBootAndSsmApplication on CFETS-PC with PID 6012 (E:\springboot\SpringBootAndSSM\target\classes started by Administrator in E:\springboot\SpringBootAndSSM)
+2018-02-01 11:25:40,709 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-02-01 11:25:40,712 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default

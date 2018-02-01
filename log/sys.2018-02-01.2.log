@@ -1,0 +1,13 @@
+2018-02-01 11:11:27,101 INFO (StartupInfoLogger.java:57)- Started SpringBootAndSsmApplication in 5.84 seconds (JVM running for 6.403)
+2018-02-01 11:15:22,951 INFO (StartupInfoLogger.java:48)- Starting SpringBootAndSsmApplication on CFETS-PC with PID 7636 (E:\springboot\SpringBootAndSSM\target\classes started by Administrator in E:\springboot\SpringBootAndSSM)
+2018-02-01 11:15:22,957 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-02-01 11:15:22,958 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-02-01 11:15:31,492 INFO (StartupInfoLogger.java:48)- Starting SpringBootAndSsmApplication on CFETS-PC with PID 5440 (E:\springboot\SpringBootAndSSM\target\classes started by Administrator in E:\springboot\SpringBootAndSSM)
+2018-02-01 11:15:31,496 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-02-01 11:15:31,496 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-02-01 11:16:13,364 INFO (StartupInfoLogger.java:48)- Starting SpringBootAndSsmApplication on CFETS-PC with PID 3568 (E:\springboot\SpringBootAndSSM\target\classes started by Administrator in E:\springboot\SpringBootAndSSM)
+2018-02-01 11:16:13,367 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-02-01 11:16:13,368 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-02-01 11:16:54,528 INFO (StartupInfoLogger.java:48)- Starting SpringBootAndSsmApplication on CFETS-PC with PID 4464 (E:\springboot\SpringBootAndSSM\target\classes started by Administrator in E:\springboot\SpringBootAndSSM)
+2018-02-01 11:16:54,532 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+2018-02-01 11:16:54,532 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default

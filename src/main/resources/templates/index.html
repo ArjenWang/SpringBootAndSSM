@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Spring boot</title>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript">
+        function quary(){
+            var str = $("#name").val();
+            $.ajax({
+                url:"select/"+str,
+                type:"get",
+                success : function(data) {
+                    console.log(data);
+                    if(data.length!=0){
+                        $.each(data, function(i, value) {
+                            $("#remark").append(
+                                    " <tr><td>" + value.id + "</td><td>"
+                                    + value.name + "</td><td>" + value.age
+                                    + "</td><td>" + value.address + "</td></tr>");
+                        });
+                    }else{
+                        alert("无该用户");
+                    }
+                },
+                error:function(){
+                    alert("无该用户");
+                }
+            });
+        }
+
+    </script>
+</head>
+<body>
+<form action="">
+    查询:<input type="text" id="name" />
+    <input type="button" onclick="quary()" value="提交" />
+    <table class="table table-striped" id="remark">
+        <tr>
+            <td>ID</td>
+            <td>姓名</td>
+            <td>年龄</td>
+            <td>住址</td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>

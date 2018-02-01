@@ -1,0 +1,3 @@
+2018-02-01 13:53:38,937 DEBUG (BaseJdbcLogger.java:181)- ==>  Preparing: SELECT * FROM user WHERE name = ? 
+2018-02-01 13:53:38,946 DEBUG (BaseJdbcLogger.java:181)- ==> Parameters: 老刘(String)
+2018-02-01 13:53:38,950 DEBUG (BaseJdbcLogger.java:181)- <==      Total: 1
